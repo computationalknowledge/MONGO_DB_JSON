@@ -1,0 +1,32 @@
+{
+  "Buildings": {
+    "": {
+      "Name": "",
+      "Address": ""
+    }
+  },
+  "Shelves": {
+    "": {
+      "Name": "",
+      "Building ID": "",
+      "Bins": {
+        "": true
+      }
+    }
+  },
+  "Bins": {
+    "": {
+      "Name": "",
+      "Shelf ID": "",
+      "Product ID": "",
+      "Quantity": ""
+    }
+  },
+  "Products": {
+    "": {
+      "Name": "",
+      "Description": "",
+      "Unit Cost": ""
+    }
+  }
+}
